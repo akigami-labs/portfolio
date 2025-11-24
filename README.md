@@ -13,6 +13,9 @@ Data-driven program leader with a hybrid background spanning digital supply chai
 - **Live Site:** [littlebylittle.app](https://littlebylittle.app) · Status: Production  
 - **Overview:** Progressive web app helping “overwhelmed achievers” overcome task paralysis. Combines adaptive coaching with AI-assisted task breakdowns that adjust tone and strategy based on user sentiment.
 
+<img width="1475" height="896" alt="lbl-screenshot" src="https://github.com/user-attachments/assets/042e9c81-f093-4599-9216-f21f9b5f15d1" />
+
+
 **Tech Stack**
 - Frontend: React 18, TypeScript, Vite, Tailwind CSS  
 - Backend: Firebase (Firestore, Auth, Cloud Functions)  
